@@ -7,4 +7,5 @@ commit -m: will commit changes to a file and record a message about them
 log: shows projects history
 status: shows if everything is okay
 
+Must add and then commit, that's what actually moves file to repository.
 
