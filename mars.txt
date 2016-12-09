@@ -1,2 +1,10 @@
 Example for git version control
 Cold and dry, but everything is my favorite color
+commands:
+cat: shows comments
+nano: opens a file in the nano text editor 
+commit -m: will commit changes to a file and record a message about them
+log: shows projects history
+status: shows if everything is okay
+
+
