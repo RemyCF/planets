@@ -8,4 +8,4 @@ log: shows projects history
 status: shows if everything is okay
 
 Must add and then commit, that's what actually moves file to repository.
-
+Inlocate, yam, b-uprise cross, ...
